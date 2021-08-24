@@ -1,4 +1,6 @@
 # NetworkBound-OfflineCaching
+[![codecov](https://codecov.io/gh/duttabhishek0/NetworkBound-OfflineCaching/branch/main/graph/badge.svg?token=2E7AGHNEGK)](https://codecov.io/gh/duttabhishek0/NetworkBound-OfflineCaching)
+<br>
 An android app to  demonstrate offline caching capabilities offered by JetPack Compose.
 
 The <a href = "https://developer.android.com/jetpack/guide"> Jetpack article</a> describes a way to provide data from a web service or retrieve data from an offline storage(if available). This repository contains the files required to make an application which can demonstrate such capabilities.
