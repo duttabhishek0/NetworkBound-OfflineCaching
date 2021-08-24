@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/054e5012d37ce0208cb189efdc713339/cursoradapter-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/ef7033c43589dd72820378f505d6c76e/cursoradapter-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/f33a4d6ccc03df8e7e693e393a07c475/cursoradapter-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/f33a4d6ccc03df8e7e693e393a07c475/cursoradapter-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/f33a4d6ccc03df8e7e693e393a07c475/cursoradapter-1.0.0/res" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/f33a4d6ccc03df8e7e693e393a07c475/cursoradapter-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/f33a4d6ccc03df8e7e693e393a07c475/cursoradapter-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/f33a4d6ccc03df8e7e693e393a07c475/cursoradapter-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.cursoradapter/cursoradapter/1.0.0/1e323083b41c31fd4d45510dfce50614963c3c6c/cursoradapter-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.cursoradapter/cursoradapter/1.0.0/1e323083b41c31fd4d45510dfce50614963c3c6c/cursoradapter-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

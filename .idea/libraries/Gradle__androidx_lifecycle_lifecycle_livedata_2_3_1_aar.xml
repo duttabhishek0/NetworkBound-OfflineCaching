@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.3.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/2a8d776273b6079ab02c72bd213b5797/lifecycle-livedata-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/1160b83ea985ecaa78496070bebdfbcc/lifecycle-livedata-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/1160b83ea985ecaa78496070bebdfbcc/lifecycle-livedata-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/1160b83ea985ecaa78496070bebdfbcc/lifecycle-livedata-2.3.1/res" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/1160b83ea985ecaa78496070bebdfbcc/lifecycle-livedata-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/1160b83ea985ecaa78496070bebdfbcc/lifecycle-livedata-2.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/1160b83ea985ecaa78496070bebdfbcc/lifecycle-livedata-2.3.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.3.1/79c9b6bb8cb5d788988ae6a481f29c6692c3bdd2/lifecycle-livedata-2.3.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.3.1/79c9b6bb8cb5d788988ae6a481f29c6692c3bdd2/lifecycle-livedata-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.4.0-alpha04@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/res" />
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/res" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/fed135e4fb76d35d100a54e0fabf420a/room-runtime-2.4.0-alpha04/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.room/room-runtime/2.4.0-alpha04/6a94eb87b63fd0dd71c0837054533d6b7ecba134/room-runtime-2.4.0-alpha04-sources.jar!/" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.room/room-runtime/2.4.0-alpha04/6a94eb87b63fd0dd71c0837054533d6b7ecba134/room-runtime-2.4.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

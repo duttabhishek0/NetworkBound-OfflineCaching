@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.sqlite:sqlite-framework:2.2.0-alpha02@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/50077ac2d6e4006f8fd673e69ea5c6f7/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/50077ac2d6e4006f8fd673e69ea5c6f7/sqlite-framework-2.2.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/50077ac2d6e4006f8fd673e69ea5c6f7/sqlite-framework-2.2.0-alpha02/res" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/50077ac2d6e4006f8fd673e69ea5c6f7/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/50077ac2d6e4006f8fd673e69ea5c6f7/sqlite-framework-2.2.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/50077ac2d6e4006f8fd673e69ea5c6f7/sqlite-framework-2.2.0-alpha02/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.sqlite/sqlite-framework/2.2.0-alpha02/276e5b579e93de6c6d9474d33d0e622cd35bf9e7/sqlite-framework-2.2.0-alpha02-sources.jar!/" />
+      <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.sqlite/sqlite-framework/2.2.0-alpha02/276e5b579e93de6c6d9474d33d0e622cd35bf9e7/sqlite-framework-2.2.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
