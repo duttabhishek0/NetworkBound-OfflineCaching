@@ -23,8 +23,8 @@ The app follows the <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&s
 
 The core part of this application is the `NetworkBoundResource.kt` file, where the magic happens.
 
-```
-
+##### Code
+```kotlin
 inline fun <ResultType, RequestType> networkBoundResource(
     crossinline query: () -> Flow<ResultType>,
     crossinline fetch: suspend () -> RequestType,
@@ -48,7 +48,6 @@ inline fun <ResultType, RequestType> networkBoundResource(
 
     emitAll(flow)
 }
-
 ```
 
 <ol>
@@ -61,12 +60,15 @@ inline fun <ResultType, RequestType> networkBoundResource(
   </ol>
  <br></br>
   
+
 # Application
 This repository contains code for an android application, which basically shows a list of data fetched from a random API generator, using `RetrofitAPI` using which APIs are converted into callable objects. 
 
 The following data are required to be fetched  and shown in the activity.
-```
 
+##### Code
+
+```kotlin
 // Data Class to store the data
 @Entity(tableName = "cars")
 data class CarList (
@@ -84,7 +86,10 @@ A `repository` will be used. Repository pattern is one of the design patterns th
 
 
 `DAO` for the API path
-```
+
+##### Code
+
+```kotlin
 interface CarsDao {
     @Query("SELECT * FROM cars")
     fun getAllCars() : Flow<List<CarList>>
@@ -98,7 +103,10 @@ interface CarsDao {
 ```
 
 `Repository` class to centralize the data access
-```
+
+##### Code
+
+```kotlin
 class CarListRepository @Inject constructor(
     private val api : CarListAPI,
     private val db : CarListDatabase
@@ -126,7 +134,10 @@ class CarListRepository @Inject constructor(
 This thing has to be implemented in a `viewModel` from which data will be exposed on a view or a fragment. 
 The view model can get data from the repository by observing it's live data.
 
-```
+
+##### Code
+
+```kotlin
 @HiltViewModel
 class CarListViewModel @Inject constructor(
     api : CarListAPI
