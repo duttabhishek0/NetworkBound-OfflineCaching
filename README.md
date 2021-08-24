@@ -155,3 +155,8 @@ Adding a repository between the data source and a view is recommended by Android
 <li> Click on the "*Commit changes *", and then click on the "*Create Pull Request*"  button.</li>
 <li> I will then reveiw the PR(Pull Request) and if I found it to be correct I will merge it in main. </li>
  </ol>
+
+
+## Output
+The only activity
+![Screenshot from 2021-08-24 09-42-19](https://user-images.githubusercontent.com/56694152/130609142-02a3bd38-c567-4424-a720-7c04832b70bd.png)
