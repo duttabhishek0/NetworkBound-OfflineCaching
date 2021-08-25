@@ -17,7 +17,7 @@ class CarActivity : AppCompatActivity() {
     // in a state in which it was closed
 
     // DaggerHilt will inject the view-model for us
-    private val viewModel : CarListViewModel by viewModels()
+    private val viewModel: CarListViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -36,14 +36,14 @@ class CarActivity : AppCompatActivity() {
                 layoutManager = LinearLayoutManager(this@CarActivity)
             }
 
-            viewModel.carList.observe(this@CarActivity){   carlist ->
-                    carAdapter.submitList(carlist)
+            viewModel.cars.observe(this@CarActivity) { result ->
+                carAdapter.submitList(result.data)
 
-                progressBar.isVisible = carlist is Resource.Loading && carlist.data.isNullOrEmpty()
-                textViewError.isVisible = carlist is Resource.Error && carlist.data.isNullOrEmpty()
-                textViewError.text = carlist.Error?.localizedMessage
+                progressBar.isVisible = result is Resource.Loading<*> && result.data.isNullOrEmpty()
+                textViewError.isVisible = result is Resource.Error<*> && result.data.isNullOrEmpty()
+                textViewError.text = result.error?.localizedMessage
+
             }
         }
-
     }
 }

@@ -1,6 +1,9 @@
 package com.abhishek.carlist.di
 
+import android.app.Application
+import androidx.room.Room
 import com.abhishek.carlist.api.CarListAPI
+import com.abhishek.carlist.data.CarListDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -13,9 +16,10 @@ import javax.inject.Singleton
 @Module
 @InstallIn(SingletonComponent::class)
 object AppModule {
+
     @Provides
     @Singleton
-    fun provideRetrofit() : Retrofit=
+    fun provideRetrofit(): Retrofit =
         Retrofit.Builder()
             .baseUrl(CarListAPI.BASE_URL)
             .addConverterFactory(GsonConverterFactory.create())
@@ -23,6 +27,12 @@ object AppModule {
 
     @Provides
     @Singleton
-    fun provideCarListAPI(retrofit: Retrofit) : CarListAPI =
-        retrofit.create(CarListAPI :: class.java)
+    fun provideCarListAPI(retrofit: Retrofit): CarListAPI =
+        retrofit.create(CarListAPI::class.java)
+
+    @Provides
+    @Singleton
+    fun provideDatabase(app: Application): CarListDatabase =
+        Room.databaseBuilder(app, CarListDatabase::class.java, "carlist_database")
+            .build()
 }

@@ -9,7 +9,7 @@ import com.abhishek.carlist.data.CarList
 import com.abhishek.carlist.databinding.CarlistItemBinding
 
 
-class CarAdapter :  ListAdapter<CarList, CarAdapter.CarViewHolder>(CarListComparator()) {
+class CarAdapter : ListAdapter<CarList, CarAdapter.CarViewHolder>(CarListComparator()) {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CarViewHolder {
         val binding =
             CarlistItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
@@ -37,7 +37,8 @@ class CarAdapter :  ListAdapter<CarList, CarAdapter.CarViewHolder>(CarListCompar
             }
         }
     }
-    class CarListComparator : DiffUtil.ItemCallback<CarList>(){
+
+    class CarListComparator : DiffUtil.ItemCallback<CarList>() {
         override fun areItemsTheSame(oldItem: CarList, newItem: CarList) =
             oldItem.make_and_model == newItem.make_and_model
 

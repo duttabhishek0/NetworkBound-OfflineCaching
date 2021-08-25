@@ -14,7 +14,7 @@ interface CarsDao {
     // No need of suspend method here
     @Query("SELECT * FROM cars")
     // Kotlin flow is an asynchronous stream of values
-    fun getAllCars() : Flow<List<CarList>>
+    fun getAllCars(): Flow<List<CarList>>
 
 
     // If a new data is inserted with same primary key
@@ -26,7 +26,7 @@ interface CarsDao {
     // Main thread. Hence coroutine is used
     // If it is executing on one one thread, it may suspend
     // its execution there, and resume in another one
-    suspend fun insertCars(cars : List<CarList>)
+    suspend fun insertCars(cars: List<CarList>)
 
     // Once the device comes online, the cached data
     // need to be replaced, i.e. delete it
