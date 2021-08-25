@@ -76,8 +76,7 @@ The following data are required to be fetched  and shown in the activity.
 // Data Class to store the data
 @Entity(tableName = "cars")
 data class CarList (
-    @PrimaryKey val name : String,
-    val make_and_model : String,
+    @PrimaryKey val make_and_model : String,
     val color: String,
     val transmission : String,
     val drive_type : String,
