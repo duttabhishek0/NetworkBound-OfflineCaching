@@ -1,6 +1,7 @@
 # NetworkBound-OfflineCaching
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 ![Android CI](https://github.com/duttabhishek0/NetworkBound-OfflineCaching//workflows/Android%20CI/badge.svg)
+<a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/duttabhishek0/NetworkBound-OfflineCaching"/></a>
 
 <br>
 An android app to  demonstrate offline caching capabilities offered by JetPack Compose.
