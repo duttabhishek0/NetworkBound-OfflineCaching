@@ -7,10 +7,10 @@ import kotlinx.coroutines.delay
 import javax.inject.Inject
 
 class CarListRepository @Inject constructor(
-    private val api : CarListAPI,
-    private val db : CarListDatabase
+    private val api: CarListAPI,
+    private val db: CarListDatabase
 ) {
-    private  val carsDao = db.carsDao()
+    private val carsDao = db.carsDao()
 
     fun getCars() = networkBoundResource(
         query = {
@@ -20,7 +20,7 @@ class CarListRepository @Inject constructor(
             delay(2000)
             api.getCarList()
         },
-        saveFetchResult =  { CarList ->
+        saveFetchResult = { CarList ->
             db.withTransaction {
                 carsDao.deleteAllCars()
                 carsDao.insertCars(CarList)
