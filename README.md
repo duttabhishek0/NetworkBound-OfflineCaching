@@ -163,6 +163,7 @@ Adding a repository between the data source and a view is recommended by Android
 
 The app uses [MVVM Architecture](https://developer.android.com/jetpack/docs/guide#recommended-app-arch)
 
+
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/duttabhishek32/MiniNetworkBound-OfflineCaching/issues) 
 <div align="center">STEPS:-</div>
 <ol>
