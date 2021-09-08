@@ -161,6 +161,8 @@ class CarListViewModel @Inject constructor(
 ```
 Adding a repository between the data source and a view is recommended by Android, as it seperates the view, so that focus can be put seperately on increasing the UI of app and the database. Moreover, the repository helps by centralising the data access, which directly reduces the boilerplate code.
 
+The app uses [MVVM Architecture](https://developer.android.com/jetpack/docs/guide#recommended-app-arch)
+
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/duttabhishek32/MiniNetworkBound-OfflineCaching/issues) 
 <div align="center">STEPS:-</div>
 <ol>
