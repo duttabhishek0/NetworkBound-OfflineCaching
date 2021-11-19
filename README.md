@@ -7,8 +7,13 @@
 An android app to  demonstrate offline caching capabilities offered by JetPack Compose.
 
 The <a href = "https://developer.android.com/jetpack/guide"> Jetpack article</a> describes a way to provide data from a web service or retrieve data from an offline storage(if available). This repository contains the files required to make an application which can demonstrate such capabilities.
+## Output
+Before starting, lets see how our app would look: 
+<p align="center">
+  <img src ="https://user-images.githubusercontent.com/56694152/142604539-e1e31249-2dd1-4d91-a4a8-c6a2c54fcf1a.png" width="250" height="500" />
+</p>
 
-Before directly jumping into the code, lets see what is the algorightm.
+
 
 # The Algorithm
 The block diagram represents the control flow :
@@ -175,9 +180,4 @@ The app uses [MVVM Architecture](https://developer.android.com/jetpack/docs/guid
  </ol>
 
 
-## Output
-
-<p align="center">
-  <img src ="https://user-images.githubusercontent.com/56694152/142604539-e1e31249-2dd1-4d91-a4a8-c6a2c54fcf1a.png" width="250" height="500" />
-</p>
 
