@@ -3,6 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/bcb53b65887fcddb1fbe72fde7888584/print-1.0.0/annotations.zip!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/bcb53b65887fcddb1fbe72fde7888584/print-1.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3c5aa22352cc9b5f324085c296db3fc3/transformed/print-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/7dfca04f409b233eb5dcb1a0a2adbbdd/print-1.0.0/res" />
@@ -12,11 +13,15 @@
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/bcb53b65887fcddb1fbe72fde7888584/print-1.0.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/bcb53b65887fcddb1fbe72fde7888584/print-1.0.0/res" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/bcb53b65887fcddb1fbe72fde7888584/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c5aa22352cc9b5f324085c296db3fc3/transformed/print-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3c5aa22352cc9b5f324085c296db3fc3/transformed/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c5aa22352cc9b5f324085c296db3fc3/transformed/print-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

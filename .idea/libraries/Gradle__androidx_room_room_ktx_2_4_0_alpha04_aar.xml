@@ -7,11 +7,15 @@
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/4e1f49f8b68ac89a73cf4ffa593cad76/room-ktx-2.4.0-alpha04/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/4e1f49f8b68ac89a73cf4ffa593cad76/room-ktx-2.4.0-alpha04/res" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/4e1f49f8b68ac89a73cf4ffa593cad76/room-ktx-2.4.0-alpha04/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/013528e4db8231524fb5cd887008b97b/transformed/room-ktx-2.4.0-alpha04/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/013528e4db8231524fb5cd887008b97b/transformed/room-ktx-2.4.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/013528e4db8231524fb5cd887008b97b/transformed/room-ktx-2.4.0-alpha04/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.room/room-ktx/2.4.0-alpha04/9474824d8d29f2a28e480e388023c62155b57644/room-ktx-2.4.0-alpha04-sources.jar!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.room/room-ktx/2.4.0-alpha04/9474824d8d29f2a28e480e388023c62155b57644/room-ktx-2.4.0-alpha04-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-ktx/2.4.0-alpha04/9474824d8d29f2a28e480e388023c62155b57644/room-ktx-2.4.0-alpha04-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

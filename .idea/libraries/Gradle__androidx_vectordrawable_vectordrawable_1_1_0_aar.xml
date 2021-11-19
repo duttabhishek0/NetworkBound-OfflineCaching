@@ -9,11 +9,15 @@
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/a4c31a287b2b511c6323dbf2cbd279b2/vectordrawable-1.1.0/res" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/a4c31a287b2b511c6323dbf2cbd279b2/vectordrawable-1.1.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/a4c31a287b2b511c6323dbf2cbd279b2/vectordrawable-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/48baecea6127abfd3adf23a0f2906b14/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48baecea6127abfd3adf23a0f2906b14/transformed/vectordrawable-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/48baecea6127abfd3adf23a0f2906b14/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

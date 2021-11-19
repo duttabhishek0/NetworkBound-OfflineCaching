@@ -3,6 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/908b35ccc46de5f5f5fda5d432fa30cd/core-1.6.0/annotations.zip!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/908b35ccc46de5f5f5fda5d432fa30cd/core-1.6.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a55dae8a8ff772d3b64bfab79ff01883/transformed/core-1.6.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../ADev/ChatDemo/caches/transforms-2/files-2.1/908b35ccc46de5f5f5fda5d432fa30cd/core-1.6.0/res" />
@@ -11,11 +12,15 @@
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/908b35ccc46de5f5f5fda5d432fa30cd/core-1.6.0/res" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/908b35ccc46de5f5f5fda5d432fa30cd/core-1.6.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/908b35ccc46de5f5f5fda5d432fa30cd/core-1.6.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a55dae8a8ff772d3b64bfab79ff01883/transformed/core-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a55dae8a8ff772d3b64bfab79ff01883/transformed/core-1.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a55dae8a8ff772d3b64bfab79ff01883/transformed/core-1.6.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.core/core/1.6.0/7e14a47159a1cd7e5744d0fe465fbc97843d984a/core-1.6.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.core/core/1.6.0/7e14a47159a1cd7e5744d0fe465fbc97843d984a/core-1.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.6.0/7e14a47159a1cd7e5744d0fe465fbc97843d984a/core-1.6.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

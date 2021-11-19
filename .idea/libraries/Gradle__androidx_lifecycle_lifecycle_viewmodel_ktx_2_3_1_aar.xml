@@ -8,11 +8,15 @@
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/a62201749827cb61d0d2d5dd85714363/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/a62201749827cb61d0d2d5dd85714363/lifecycle-viewmodel-ktx-2.3.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/a62201749827cb61d0d2d5dd85714363/lifecycle-viewmodel-ktx-2.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af18fe05bad54d20cec6d57cd3420e16/transformed/lifecycle-viewmodel-ktx-2.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af18fe05bad54d20cec6d57cd3420e16/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/af18fe05bad54d20cec6d57cd3420e16/transformed/lifecycle-viewmodel-ktx-2.3.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.3.1/5039b0b0dd04a2496c1bbbddc897c5dfa6b8ed43/lifecycle-viewmodel-ktx-2.3.1-sources.jar!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.3.1/5039b0b0dd04a2496c1bbbddc897c5dfa6b8ed43/lifecycle-viewmodel-ktx-2.3.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.3.1/5039b0b0dd04a2496c1bbbddc897c5dfa6b8ed43/lifecycle-viewmodel-ktx-2.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

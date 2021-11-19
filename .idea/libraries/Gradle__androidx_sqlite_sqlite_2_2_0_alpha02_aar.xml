@@ -7,11 +7,15 @@
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/67af1e8d37829007fe34d79c854e2e16/sqlite-2.2.0-alpha02/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/67af1e8d37829007fe34d79c854e2e16/sqlite-2.2.0-alpha02/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/ADev/ChatDemo/caches/transforms-2/files-2.1/67af1e8d37829007fe34d79c854e2e16/sqlite-2.2.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a126a7c08f894accfa170898c3dd06c8/transformed/sqlite-2.2.0-alpha02/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a126a7c08f894accfa170898c3dd06c8/transformed/sqlite-2.2.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a126a7c08f894accfa170898c3dd06c8/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../ADev/ChatDemo/caches/modules-2/files-2.1/androidx.sqlite/sqlite/2.2.0-alpha02/ce7f01320b8870fe21dc55996764c8349c146cb/sqlite-2.2.0-alpha02-sources.jar!/" />
       <root url="jar://$USER_HOME$/ADev/ChatDemo/caches/modules-2/files-2.1/androidx.sqlite/sqlite/2.2.0-alpha02/ce7f01320b8870fe21dc55996764c8349c146cb/sqlite-2.2.0-alpha02-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.sqlite/sqlite/2.2.0-alpha02/ce7f01320b8870fe21dc55996764c8349c146cb/sqlite-2.2.0-alpha02-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
