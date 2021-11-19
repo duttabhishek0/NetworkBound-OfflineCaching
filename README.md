@@ -176,6 +176,7 @@ The app uses [MVVM Architecture](https://developer.android.com/jetpack/docs/guid
 
 
 ## Output
-The only activity
-![Screenshot from 2021-08-24 09-42-19](https://user-images.githubusercontent.com/56694152/130609142-02a3bd38-c567-4424-a720-7c04832b70bd.png)
 
+<p align="center">
+  <img src ="https://user-images.githubusercontent.com/56694152/130609142-02a3bd38-c567-4424-a720-7c04832b70bd.png" width="250" height="500" />
+</p>
