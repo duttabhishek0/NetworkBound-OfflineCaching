@@ -8,9 +8,11 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_viewer"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:clipToPadding="false"
         android:padding="10dp"
+        android:layout_marginBottom="5dp"
+        android:scrollbars="vertical"
         tools:listitem="@layout/carlist_item" />
 
     <ProgressBar
