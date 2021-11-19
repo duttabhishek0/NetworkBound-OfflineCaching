@@ -178,5 +178,6 @@ The app uses [MVVM Architecture](https://developer.android.com/jetpack/docs/guid
 ## Output
 
 <p align="center">
-  <img src ="https://user-images.githubusercontent.com/56694152/130609142-02a3bd38-c567-4424-a720-7c04832b70bd.png" width="250" height="500" />
+  <img src ="https://user-images.githubusercontent.com/56694152/142604539-e1e31249-2dd1-4d91-a4a8-c6a2c54fcf1a.png" width="250" height="500" />
 </p>
+
