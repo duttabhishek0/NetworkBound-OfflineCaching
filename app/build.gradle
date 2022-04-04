@@ -62,7 +62,7 @@ android {
         kapt 'com.google.dagger:hilt-compiler:2.40.5'
 
         // Coroutines
-        implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0'
+        implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1'
 
         // Retrofit + GSON
         implementation "com.squareup.retrofit2:retrofit:2.9.0"
