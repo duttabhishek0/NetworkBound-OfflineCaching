@@ -4,7 +4,8 @@
 <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/duttabhishek0/NetworkBound-OfflineCaching"/></a>
 
 <br>
-An android app to  demonstrate offline caching capabilities offered by JetPack Compose.
+An android app to  demonstrate offline caching capabilities offered by JetPack Libraries.  
+<a href = "https://www.geeksforgeeks.org/how-to-implement-offline-caching-using-networkboundresource-in-android/" >Link </a>to Geeksforgeeks article.
 
 The <a href = "https://developer.android.com/jetpack/guide"> Jetpack article</a> describes a way to provide data from a web service or retrieve data from an offline storage(if available). This repository contains the files required to make an application which can demonstrate such capabilities.
 ## Output
