@@ -59,7 +59,7 @@ android {
 
         // Dagger Hilt
         implementation 'com.google.dagger:hilt-android:2.40'
-        kapt 'com.google.dagger:hilt-compiler:2.40.5'
+        kapt 'com.google.dagger:hilt-compiler:2.42'
 
         // Coroutines
         implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0'
