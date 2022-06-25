@@ -17,7 +17,7 @@ class CarListRepository @Inject constructor(
             carsDao.getAllCars()
         },
         fetch = {
-            delay(2000)
+            delay(1400)
             api.getCarList()
         },
         saveFetchResult = { CarList ->
