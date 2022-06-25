@@ -38,11 +38,9 @@ class CarActivity : AppCompatActivity() {
 
             viewModel.cars.observe(this@CarActivity) { result ->
                 carAdapter.submitList(result.data)
-
                 progressBar.isVisible = result is Resource.Loading<*> && result.data.isNullOrEmpty()
                 textViewError.isVisible = result is Resource.Error<*> && result.data.isNullOrEmpty()
                 textViewError.text = result.error?.localizedMessage
-
             }
         }
     }
