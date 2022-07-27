@@ -74,7 +74,7 @@ android {
         implementation "androidx.room:room-ktx:2.4.0"
 
         // LiveData
-        implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.5.0"
+        implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.5.1"
 
         // Fragment
         implementation 'androidx.fragment:fragment-ktx:1.5.0'
