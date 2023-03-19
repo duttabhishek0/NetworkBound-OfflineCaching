@@ -77,7 +77,7 @@ android {
         implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.5.0"
 
         // Fragment
-        implementation 'androidx.fragment:fragment-ktx:1.5.0'
+        implementation 'androidx.fragment:fragment-ktx:1.5.5'
 
         implementation("androidx.cardview:cardview:1.0.0")
 
