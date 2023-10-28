@@ -4,6 +4,11 @@
 <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/duttabhishek0/NetworkBound-OfflineCaching"/></a>
 
 <br>
+
+> [!WARNING]  
+> This project is no more maintained. Expect some minor bugs/ compatibility issues
+
+
 An android app to  demonstrate offline caching capabilities offered by JetPack Libraries.  
 <a href = "https://www.geeksforgeeks.org/how-to-implement-offline-caching-using-networkboundresource-in-android/" >Link </a>to Geeksforgeeks article.
 
